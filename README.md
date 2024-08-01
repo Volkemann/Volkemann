@@ -1,4 +1,5 @@
 <div align="center">
+<img align="center" width="100%" src="https://files.fm/thumb_show.php?i=y7v9wadxdh" style="max-width: 100%;">
   
 </div>
 
@@ -20,7 +21,7 @@
 
 ###
 
-<p align="center">I am looking to become a professional web developer specializing in Full Stack, always committed to expanding my knowledge and skills. I am a focused and realistic person, which allows me to face challenges objectively and efficiently.</p>
+<p align="center">I'm a student, and I am looking to become a professional web developer specializing in Full Stack, always committed to expanding my knowledge and skills. I am a focused and realistic person, which allows me to face challenges objectively and efficiently.</p>
 
 ###
 
