@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="![Background-VK](https://github.com/user-attachments/assets/a45aebbc-a14b-4143-afba-84c3564b01f4)
-"  />
+  <img height="150" src="https://br.pinterest.com/volkmanndeveloper/_created/"  />
 </div>
 
 ###
@@ -65,13 +64,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/volkemann/volkemann/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/Volkemann">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d0znbl6vzmljqrzhvb8pph4ll&unique={true|1|on|yes})" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/d0znbl6vzmljqrzhvb8pph4ll">
+    <img src="(https://spotify-recently-played-readme.vercel.app/api?user=d0znbl6vzmljqrzhvb8pph4ll&unique={true|1|on|yes})"  />
   </a>
 </div>
 
