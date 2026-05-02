@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">👤  About Me</h3>
+<h3 align="center">  About Me</h3>
 
 ###
 
